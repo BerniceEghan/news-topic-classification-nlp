@@ -44,7 +44,7 @@ To build a predictive model that accurately classifies news articles (or any tex
 **Bernice Nhyira Eghan**  
 Data Science | NLP | Machine Learning Enthusiast  
 [berniceeghan1@gmail.com]  
-[/ https://github.com/BerniceEghan] 
+[https://github.com/BerniceEghan] 
 [linkedin: Bernice Eghan]
 
 
